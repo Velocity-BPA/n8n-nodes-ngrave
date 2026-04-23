@@ -2,7 +2,7 @@
   "name": "n8n-nodes-ngrave",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for NGRAVE ZERO hardware wallet integration providing 25 resources and 150+ operations for air-gapped cryptocurrency signing, PSBT workflows, multi-chain support, and GRAPHENE backup verification.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -95,7 +95,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.30.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.2.5",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
